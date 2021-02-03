@@ -1,0 +1,1 @@
+1.Create file “test.txt” locally, make changes, and push to GitHub (3 points)2.Edit file “test.txt” on GitHub and pull changes to local machine (2 point)3.Create file “hello.txt” locally on a new branch, merge that branch into master, push toGitHub (3 points)4.Create a simple README with a small description of the assignment, push to github (2points)
